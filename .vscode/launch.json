@@ -3,10 +3,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Gui with JavaFX",
+            "name": "Run Gui (Maven)",
             "request": "launch",
             "mainClass": "Gui",
-            "vmArgs": "--module-path \"${workspaceFolder}/lib\" --add-modules javafx.controls,javafx.fxml -Djava.library.path=\"${workspaceFolder}/lib\""
+            "projectName": "go-boom-game"
         }
     ]
 }

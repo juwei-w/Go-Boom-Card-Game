@@ -6,8 +6,13 @@ bin/
 out/
 target/
 
-# JavaFX SDK (external downloads)
+# Maven
+.mvn/
+dependency-reduced-pom.xml
+
+# JavaFX SDK (external - users download their own)
 javafx-sdk*/
+lib/
 
 # VS Code Java workspace
 .vscode/.factorypath
