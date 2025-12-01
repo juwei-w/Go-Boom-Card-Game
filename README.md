@@ -49,6 +49,15 @@ Go-Boom/
 │   ├── PART2.md                     # Part 2 feature completion checklist
 │   └── TCP1201 Assignment Part 1.pdf
 │
+├── screenshots/                     # Game screenshots for README
+│   ├── main.png                     # Main menu screen
+│   ├── gui_play.png                 # GUI gameplay
+│   ├── gui_turn_win.png             # Trick winner display
+│   ├── gui_game_won.png             # Game over screen
+│   ├── console_play.png             # Console output during play
+│   ├── console_turn_win.png         # Console trick winner
+│   └── console_game_won.png         # Console game end
+│
 ├── target/                          # Maven build output (generated, not committed)
 ├── bin/                             # Alternative build output (optional)
 ├── pom.xml                          # Maven project configuration
