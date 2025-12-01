@@ -114,7 +114,7 @@ Go-Boom/
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/juwei-w/Go-Boom.git
+   git clone https://github.com/juwei-w/Go-Boom-Card-Game.git
    cd Go-Boom
    ```
 
