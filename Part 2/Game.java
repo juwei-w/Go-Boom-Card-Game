@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-// import java.util.HashSet;
 
 public class Game extends Deck{
     // Deck
@@ -11,7 +10,7 @@ public class Game extends Deck{
     
         public Game() {
             super(); // -------------- Create a deck (Inheritance)
-            cards = getCards(); // --- Deck class function
+            cards = (ArrayList<Card>) getCards(); // --- Deck class function
 
             players = new ArrayList<Player>();
 

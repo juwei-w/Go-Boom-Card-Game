@@ -26,8 +26,8 @@ public class WinGameBox {
         layout.getChildren().add(label);
 
         layout.getChildren().add(new Label("-------------------------"));
-        for (Player player : players) {
-            layout.getChildren().add(new Label("Player " + (Boom.players.indexOf(player) + 1) + " Score : " + player.score));
+        for (int i = 0; i < players.size(); i++) {
+            layout.getChildren().add(new Label("Player " + (i + 1) + " Score : " + players.get(i).score));
         }
         layout.getChildren().add(new Label("-------------------------"));
 

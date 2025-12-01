@@ -30,9 +30,6 @@ public class Boom extends Game{
     static boolean below100 = true;
     static int totalScore;
 
-    // public static void main(String[] args) {
-
-    // }
     static void startGame() {
 
         new Game();
