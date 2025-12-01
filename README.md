@@ -210,35 +210,49 @@ mvn javafx:run
 
 ## 🔗 Resources
 
-- **Repository:** https://github.com/juwei-w/Go-Boom
-- **Issues:** https://github.com/juwei-w/Go-Boom/issues
+- **Repository:** https://github.com/juwei-w/Go-Boom-Card-Game
+- **Issues:** https://github.com/juwei-w/Go-Boom-Card-Game/issues
 
 ---
 
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main.png)
+<figure>
+   <img src="screenshots/main.png" alt="GUI Start Play" />
+</figure>
 
 ### Gameplay
-![GUI During Play](screenshots/gui_play.png)
-*GUI mode showing all players' hands with interactive card selection*
+<figure>
+   <img src="screenshots/gui_play.png" alt="GUI During Play" />
+   <figcaption>GUI mode showing all players' hands with interactive card selection</figcaption>
+</figure>
 
-![Trick Winner](screenshots/gui_turn_win.png)
-*Determining trick winner - highest rank of lead suit*
+<figure>
+   <img src="screenshots/gui_turn_win.png" alt="Trick Winner" />
+   <figcaption>Determining trick winner - highest rank of lead suit</figcaption>
+</figure>
 
-![Game Won](screenshots/gui_game_won.png)
-*Game over screen when a player reaches 100+ points*
+<figure>
+   <img src="screenshots/gui_game_won.png" alt="Game Won" />
+   <figcaption>Game over screen when a player reaches 100+ points</figcaption>
+</figure>
 
 ### Console Output (Parallel to GUI)
-![Console Gameplay](screenshots/console_play.png)
-*Console output showing card plays and game state*
+<figure>
+   <img src="screenshots/console_play.png" alt="Console Gameplay" />
+   <figcaption>Console output showing card plays and game state</figcaption>
+</figure>
 
-![Console Trick Win](screenshots/console_turn_win.png)
-*Console displaying trick winner determination*
+<figure>
+   <img src="screenshots/console_turn_win.png" alt="Console Trick Win" />
+   <figcaption>Console displaying trick winner determination</figcaption>
+</figure>
 
-![Console Game Won](screenshots/console_game_won.png)
-*Final scores and game outcome in console*
+<figure>
+   <img src="screenshots/console_game_won.png" alt="Console Game Won" />
+   <figcaption>Final scores and game outcome in console</figcaption>
+</figure>
 
 ---
 
